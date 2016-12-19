@@ -1,0 +1,8 @@
+C:\Users\cperc\OneDrive\Documents\Code\birthdayCheckCS\birthdayCheckTest\birthdayCheckTest\bin\Debug\birthdayCheckTest.exe.config
+C:\Users\cperc\OneDrive\Documents\Code\birthdayCheckCS\birthdayCheckTest\birthdayCheckTest\bin\Debug\birthdayCheckTest.exe
+C:\Users\cperc\OneDrive\Documents\Code\birthdayCheckCS\birthdayCheckTest\birthdayCheckTest\bin\Debug\birthdayCheckTest.pdb
+C:\Users\cperc\OneDrive\Documents\Code\birthdayCheckCS\birthdayCheckTest\birthdayCheckTest\bin\Debug\NodaTime.dll
+C:\Users\cperc\OneDrive\Documents\Code\birthdayCheckCS\birthdayCheckTest\birthdayCheckTest\bin\Debug\NodaTime.xml
+C:\Users\cperc\OneDrive\Documents\Code\birthdayCheckCS\birthdayCheckTest\birthdayCheckTest\obj\Debug\birthdayCheckTest.csprojResolveAssemblyReference.cache
+C:\Users\cperc\OneDrive\Documents\Code\birthdayCheckCS\birthdayCheckTest\birthdayCheckTest\obj\Debug\birthdayCheckTest.exe
+C:\Users\cperc\OneDrive\Documents\Code\birthdayCheckCS\birthdayCheckTest\birthdayCheckTest\obj\Debug\birthdayCheckTest.pdb
